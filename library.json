@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-EasyKB",
+  "title": "EasyKB",
+  "keywords": "EasyKB, esp32, esp8266, arduino, KidBright",
+  "description": "EasyKB Extension Board Plugin For KidBright",
+  "category":"Communication",
+  "git": "",
+  "author": "EasyKidsRobotics",
+  "email": "easykidsrobotics@gmail.com",
+  "url": "http://www.easykidsrobotics.com/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "er9xto",
+  "image" : "/static/Display.png",
+  "homepage": "http://www.easykidsrobotics.com/"
+}

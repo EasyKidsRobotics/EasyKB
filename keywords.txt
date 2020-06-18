@@ -1,0 +1,57 @@
+﻿###################################
+# Syntax Coloring Map for library #
+###################################
+
+################################
+# Classes/Datatypes (KEYWORD1) #
+################################
+EasyKB	KEYWORD1
+
+####################################
+# Methods and Functions (KEYWORD2) #
+####################################
+begin	KEYWORD2
+setuppin	KEYWORD2
+
+########################
+# Constants (LITERAL1) #
+########################
+WriteIO    KEYWORD2
+PWMwrite    KEYWORD2
+ServowriteM    KEYWORD2
+ReadIO     KEYWORD2
+Readadc     KEYWORD2
+Motor1     KEYWORD2
+Motor2     KEYWORD2
+Motor3     KEYWORD2
+Motor4     KEYWORD2
+DImode	KEYWORD2
+DOmode	KEYWORD2
+A0	KEYWORD2
+A1	KEYWORD2
+A2	KEYWORD2
+A3	KEYWORD2
+A4	KEYWORD2
+A5	KEYWORD2
+A6	KEYWORD2
+A7	KEYWORD2
+A8	KEYWORD2
+A9	KEYWORD2
+DIR1	KEYWORD2
+DIR2	KEYWORD2
+DIR3	KEYWORD2
+DIR4	KEYWORD2
+PWM1	KEYWORD2
+PWM2	KEYWORD2
+PWM3	KEYWORD2
+PWM4	KEYWORD2
+Servo1	KEYWORD2
+Servo2	KEYWORD2
+Servo3	KEYWORD2
+D1	KEYWORD2
+D2	KEYWORD2
+D3	KEYWORD2
+D4	KEYWORD2
+D5	KEYWORD2
+D6	KEYWORD2
+
