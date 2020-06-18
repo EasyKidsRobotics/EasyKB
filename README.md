@@ -1,1 +1,1 @@
-# EasyKB library for KB-IDE
+# EasyKB Extension Board Plugin For KidBright
