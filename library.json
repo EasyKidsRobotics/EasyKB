@@ -4,7 +4,7 @@
   "keywords": "EasyKB, esp32, esp8266, arduino, KidBright",
   "description": "EasyKB Extension Board Plugin For KidBright",
   "category":"Communication",
-  "git": "",
+  "git": "https://github.com/EasykidsRobotics/EasyKB/",
   "author": "EasyKidsRobotics",
   "email": "easykidsrobotics@gmail.com",
   "url": "http://www.easykidsrobotics.com/",
